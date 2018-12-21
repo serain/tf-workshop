@@ -11,3 +11,6 @@ variable "subscription_id"         {}
 variable "client_id"               {}
 variable "client_secret"           {}
 variable "tenant_id"               {}
+
+variable vm_user {}
+variable vm_ssh_key {}
